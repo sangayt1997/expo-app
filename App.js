@@ -13,7 +13,7 @@ export default function App() {
                         alwaysBounceVertical={false}>
                 <NativeBaseProvider theme={theme}>
                     <Box style={styles.container}>
-                        <Text fontSize="18px" color="primary.500">
+                        <Text fontWeight={600} fontSize="18px" color="primary.500">
                             Open up App.js to start working on your app!
                         </Text>
                         <StatusBar style="auto"/>
