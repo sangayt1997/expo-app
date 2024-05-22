@@ -2,7 +2,7 @@
 This project is boilerplate for react native app as well as web using expo cli and native base.
 
 ### Prerequisites of React Native Expo
-1. Node.js: Expo CLI requires Node.js to be installed on your system. You can download the latest version of Node.js from the official website (https://nodejs.org/)
+1. Node.js: Expo CLI requires Node.js to be installed on your system. You can download the latest version of Node.js from the official website (https://nodejs.org/) 
 
 2. npm / yarn (Node Package Manager): npm / yarn is a package manager for Node.js and is included with Node.js. It is used to install packages (libraries, tools, etc.) that you can use in your Node.js projects.
 
