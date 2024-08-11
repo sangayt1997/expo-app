@@ -8,9 +8,9 @@ This project is boilerplate for react native app as well as web using expo cli a
 
 3. Expo account: You will need to create an Expo account in order to use the Expo CLI and other Expo tools. You can create an account on the Expo website (https://expo.io/signup) or by using the expo register command in the terminal. 
 
-4. Mobile device: You will need a mobile device (phone or tablet) to test your Expo projects. You can use either an iOS or Android device, and you will need to install the Expo app on your device. The Expo app is available for download from the App Store (for iOS) or Google Play Store (for Android).
+4. Mobile device: You will need a mobile device (phone or tablet) to test your Expo projects. You can use either an iOS or Android device, and you will need to install the Expo app on your device. The Expo app is available for download from the App Store (for iOS) or Google Play Store (for Android). 
 
-5. Xcode and Android Studio. It's optional for Expo RN.
+5. Xcode and Android Studio. It's optional for Expo RN. 
 
 6. Text editor: You will need a text editor to write the code for your Expo projects. Some popular options include Visual Studio Code, Sublime Text, and Webstorm.
 
