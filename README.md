@@ -18,7 +18,7 @@ This project is boilerplate for react native app as well as web using expo cli a
 
 ### Available Script 
 
-- To run the expo app
+- To run the expo app   
 ```html
 yarn start
 ```
