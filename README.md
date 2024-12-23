@@ -35,4 +35,5 @@ yarn start
 › Press ? │ show all commands
 ```
 
-## Thank you and Happy Learning.
+## Thank you and Happy Learning.    
+
